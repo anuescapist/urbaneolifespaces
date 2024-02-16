@@ -12,7 +12,7 @@ License information for the project.
 
 ##Deployment:
 http://urbaneolifespaces.com
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
+
 
 ##Credits:
 Anushka - Project Developer,asad ali , shreya parbha
