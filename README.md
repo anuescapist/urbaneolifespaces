@@ -12,7 +12,7 @@ http://urbaneolifespaces.com
 
 Credits:
 Anushka - Project Developer,asad ali , shreya parbha
-[List any third-party libraries or resources used]
+
 License:
-This project is licensed under the [urbaneolifespaces.com]. See the LICENSE.md file for details.
+This project is licensed under the @urbaneolifespaces.com. See the LICENSE.md file for details.
 
