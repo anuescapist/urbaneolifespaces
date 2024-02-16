@@ -15,6 +15,10 @@ http://urbaneolifespaces.com
 
 <img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/1.jpg"/>
 <img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/10.jpg"/>
+<img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/2.jpg"/>
+<img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/5.jpg"/>
+<img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/ab-2.jpg"/>
+<img width="450px;" src="https://github.com/anuescapist/urbaneolifespaces/blob/master/images/8.jpg"/>
 
 
 ##Credits:
